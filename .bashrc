@@ -14,3 +14,6 @@ alias up='sudo pacman -Syu'
 
 #starship
 eval "$(starship init bash)"
+
+# Created by `pipx` on 2024-12-14 09:15:14
+export PATH="$PATH:/home/argon/.local/bin"
