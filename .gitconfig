@@ -1,5 +1,5 @@
 [core]
-	editor = nvim --wait
+	editor = nvim 
 [user]
 	name = argon elements
 	email = 189998344+argonelements@users.noreply.github.com
